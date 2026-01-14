@@ -1,0 +1,21 @@
+{
+  "id": "b14e5456-ec48-4db0-8c6a-85adda6ee176",
+  "name": "www.bol.com",
+  "createdAt": "2026-01-14T21:03:49.749Z",
+  "updatedAt": "2026-01-14T21:03:52.375Z",
+  "items": [
+    {
+      "url": "https://www.bol.com/nl/nl/l/ps5-consoles/74743/",
+      "title": "PS5 console kopen? Alle PS5 consoles online | bol",
+      "description": "Op zoek naar een PS5 console? PS5 consoles koop je eenvoudig online bij bol ✓ Gratis retourneren ✓ 30 dagen bedenktijd ✓ Snel in huis",
+      "image": "",
+      "price": "",
+      "currency": "",
+      "brand": ""
+    }
+  ],
+  "sourceUrl": "https://www.bol.com/nl/nl/l/ps5-consoles/74743/",
+  "hostname": "www.bol.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.bol.com&sz=128",
+  "lastDuration": "1.10"
+}

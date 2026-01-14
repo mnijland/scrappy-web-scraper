@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Conneqt Client Theme Tokens */
+  --bg-app: #111111;
+  /* Deep Black */
+  --bg-sidebar: #161616;
+  /* Darker Grey Sidebar */
+  --bg-card: #212121;
+  /* Card Surface */
+  --bg-surface: #2c2c2c;
+  /* Slightly lighter specific elements */
+
+  --border-subtle: #343434;
+  --border-active: #4a4a4a;
+
+  /* Brand */
+  --primary: #ffffff;
+  --primary-fg: #000000;
+
+  /* Text */
+  --text-main: #ffffff;
+  --text-secondary: #afafaf;
+  --text-tertiary: #6b6b6b;
+
+  /* Dimensions */
+  --sidebar-width: 260px;
+  /* Slightly slimmer */
+  --header-height: 64px;
+  --page-padding: 2.5rem;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 16px;
+
+  --font-sans: 'Inter', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+  background: none;
+}
+
+/* Layout Utilities */
+.app-shell {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background: var(--bg-app);
+}
+
+/* Typography Overrides */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text-main);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.text-sm {
+  font-size: 0.85rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.text-muted {
+  color: var(--text-secondary);
+}
+
+/* Components */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color: var(--primary-fg);
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-main);
+}
+
+.btn-secondary:hover {
+  background-color: var(--border-subtle);
+}
+
+.btn-ghost {
+  color: var(--text-secondary);
+}
+
+.btn-ghost:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-main);
+}
+
+/* Inputs */
+input,
+textarea,
+select {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-main);
+  border-radius: var(--radius-md);
+  padding: 0.6rem 0.8rem;
+  font-size: 0.875rem;
+  transition: border-color 0.15s;
+  width: 100%;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--text-secondary);
+}
+
+/* Cards */
+.card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  /* Conneqt radius */
+  padding: 1.5rem;
+}
+
+/* Editable Inputs */
+.input-editable {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+  padding: 0.25rem 0.5rem;
+  margin: -0.25rem -0.5rem;
+  /* Negative margin to prevent layout shift */
+  width: calc(100% + 1rem);
+  cursor: text;
+}
+
+.input-editable:hover {
+  background: var(--bg-app);
+  border-color: var(--border-subtle);
+}
+
+.input-editable:focus {
+  background: var(--bg-app);
+  border-color: var(--text-secondary);
+  outline: none;
+}
+
+/* Header variation */
+.input-editable-header {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+
+/* Main Layout Areas */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--bg-app);
+}
+
+.top-bar {
+  height: var(--header-height);
+  padding: 0 var(--page-padding);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background: var(--bg-app);  Removes heavy border/blur for more integrated feel */
+  /* border-bottom: 1px solid var(--border-subtle);  Optional based on design cleanliness */
+  z-index: 10;
+}
+
+.scroll-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem var(--page-padding);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+/* Utilities */
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}

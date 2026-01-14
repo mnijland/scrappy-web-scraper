@@ -1,0 +1,123 @@
+{
+  "id": "30e7c000-cc85-4c7e-b232-7095592af838",
+  "name": "12 Products from test.topmedia.nl",
+  "createdAt": "2026-01-14T20:46:05.549Z",
+  "updatedAt": "2026-01-14T20:51:06.443Z",
+  "items": [
+    {
+      "url": "https://test.topmedia.nl/en/65w-adapter-acer-aspire-s5-s7-series-black-19v-3-42a-3-0x1-1mm",
+      "title": "€14.52                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/1/9/190342A3011E_0_2.jpg",
+      "price": "14.52",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/61w-usb-c-universal-notebook-adapter-with-1-8m-usb-c-cable-white-mnf72lla",
+      "title": "€16.82                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/9/6/96W-TYPEC01-2_2.jpg",
+      "price": "16.82",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/60w-power-adapter-for-zebra-gk420-gk420d-gt800-820-ez1105-zd420-tlp2844-24v-2-5a",
+      "title": "€19.36                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/static/version1768396138/frontend/Epartment/topmedia/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
+      "price": "19.36",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/original-85w-adapter-for-apple-macbook-pro-13-magsafe-2-20v-4-25a",
+      "title": "€12.10                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/O/R/OR45-T5PU-MD223ZP-1_3.jpg",
+      "price": "12.10",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/45w-original-adapter-for-hp-19-5v-2-31a-45w-7-4x5-0mm-refurbished",
+      "title": "€7.87                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/O/R/ORHP195231H74-02R_01_1.jpg",
+      "price": "7.87",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/45w-universal-notebook-adapter-usb-c-white-automatic",
+      "title": "€17.81                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/4/5/45W-TYPEC01-1_1.jpg",
+      "price": "17.81",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/42w-adapter-for-samsung-ps30w-14j1-14v-3a-6-5x4-5mm-bulk-packing",
+      "title": "€34.58                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/1/4/140300SAM6545-1_1.jpg",
+      "price": "34.58",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/87w-universal-notebook-adapter-usb-c-automatic-includes-a-power-cord-white-mnf82ll-a",
+      "title": "€22.71                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/8/7/87W-TYPEC01-4_5.jpg",
+      "price": "22.71",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/65w-adapter-charger-dell-xps-18-19-5v-3-34a-65w-4-5-3-0mm-with-central-pin",
+      "title": "€12.71                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/1/9/195334D4530E-2_1.jpg",
+      "price": "12.71",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/90w-solid-premium-adapter-for-dell-7-4x5-0mm-with-pin",
+      "title": "€24.50                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/9/0/90D74-01-1_1.jpg",
+      "price": "24.50",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/87w-universal-notebook-adapter-usb-c-automatic-black-includes-a-power-cord",
+      "title": "€22.71                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/media/catalog/product/cache/96f36a5b65535e7cda179bb974e2e77e/8/7/87W-TYPEC01B-2_1.jpg",
+      "price": "22.71",
+      "currency": "",
+      "brand": ""
+    },
+    {
+      "url": "https://test.topmedia.nl/en/30w-nano-qc-3-0-eu-usb-c-charger-adapter-with-1-8m-usb-c-cable-for-iphone-15-ipad-samsung-22-ultra",
+      "title": "€16.34                    \n                                            \n                            Incl. Tax",
+      "description": "",
+      "image": "https://test.topmedia.nl/static/version1768396138/frontend/Epartment/topmedia/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg",
+      "price": "16.34",
+      "currency": "",
+      "brand": ""
+    }
+  ],
+  "columns": {
+    "title": "Product Name",
+    "price": "Price",
+    "description": "Description",
+    "brand": "Brand",
+    "currency": "Currency"
+  }
+}

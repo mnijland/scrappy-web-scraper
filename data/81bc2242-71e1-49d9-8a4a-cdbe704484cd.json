@@ -1,0 +1,233 @@
+{
+  "id": "81bc2242-71e1-49d9-8a4a-cdbe704484cd",
+  "name": "25 Products from www.verfbestelsite.nl",
+  "createdAt": "2026-01-14T20:53:58.388Z",
+  "updatedAt": "2026-01-14T20:54:00.266Z",
+  "items": [
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-trapprimer",
+      "title": "Holdbar Trapprimer",
+      "description": "Hoogwaardige 2 componenten epoxy primer speciaal ontwikkeld voor houten en betonnen trappen.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-trapprimer.png",
+      "price": 48.21,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-vloercoating-pakket-configurator",
+      "title": "Holdbar Vloercoating Pakket Configurator",
+      "description": "Stel binnen een paar minuten uw complete pakket samen met deze pakket configurator! Zo weet u zeker dat u de juiste en alle producten bestelt die u nodig heeft voor uw project.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-vloercoating-pakket-configurator-vbs.jpg",
+      "price": 0,
+      "currency": "EUR",
+      "brand": ""
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-badkamercoating-pakket-configurator",
+      "title": "Holdbar Badkamercoating Pakket Configurator",
+      "description": "",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-badkamercoating-pakket-configurator-vbs.jpg",
+      "price": 0,
+      "currency": "EUR",
+      "brand": ""
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-zwembadcoating-pakket-configurator",
+      "title": "Holdbar Zwembadcoating Pakket Configurator",
+      "description": "Stel binnen een paar minuten uw complete pakket samen met deze pakket configurator! Zo weet u zeker dat u de juiste en alle producten bestelt die u nodig heeft voor uw project.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-zwembadcoating-pakket-configurator-vbs.jpg",
+      "price": 0,
+      "currency": "EUR",
+      "brand": ""
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-keldercoating-pakket-configurator",
+      "title": "Holdbar Keldercoating Pakket Configurator",
+      "description": "Stel binnen een paar minuten jouw complete pakket samen met deze pakketconfigurator! Zo weet je zeker dat je de juiste producten bestelt voor jouw project.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/k/e/keldercoating_pakket_vbs.jpg",
+      "price": 0,
+      "currency": "EUR",
+      "brand": ""
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-vloerprimer",
+      "title": "Holdbar Vloerprimer",
+      "description": "Hoogwaardige 2 componenten epoxy primer voor speciaal ontwikkeld voor beton-, zandcement- en anhydrietvloeren.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-vloerprimer-2_5-kg.png",
+      "price": 46.13,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-zwembadprimer",
+      "title": "Holdbar Zwembadprimer",
+      "description": "Stap 1 van het Holdbar zwembadcoating-systeem.\r\n\r\n\r\nSuperieure hechting\r\nWatervast\r\nUV bestendig\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-zwembadprimer-2_5-kg_1.png",
+      "price": 59.79,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-badkamerprimer",
+      "title": "Holdbar Badkamerprimer",
+      "description": "Stap 1 van het Holdbar badkamercoating-systeem.\r\n\r\n\r\nSuperieure hechting\r\nWatervast\r\nSnelle droging\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-badkamerprimer.png",
+      "price": 54.15,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-vloercoating",
+      "title": "Holdbar Vloercoating",
+      "description": "Hoogwaardige 2 componenten epoxy coating speciaal ontwikkeld voor beton-, zandcement- en anhydrietvloeren.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-vloercoating-base-p-2_5-kg.png",
+      "price": 49.3,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-kelderafdichting",
+      "title": "Holdbar Kelderafdichting",
+      "description": "Sterke 2-componenten afdichting voor het oplossen van lekkages in kelders.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-kelderafdichting-2_5-kg.jpg",
+      "price": 38.26,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-vloer-topcoating",
+      "title": "Holdbar Vloer Topcoating",
+      "description": "Hoogwaardige kleurloze 2 componenten polyurethaan coating.Voor een zeer slijtvaste afwerking.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-vloertopcoating-blank-hoogglans-2_5-kg_1.png",
+      "price": 44.18,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-kelderprimer",
+      "title": "Holdbar Kelderprimer",
+      "description": "Hoogwaardige 2K epoxy kelderprimer, ideaal voor vochtige kelders en betonvloeren.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-kelderprimer.png",
+      "price": 51.57,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-vloer-topcoating-extra",
+      "title": "Holdbar Vloer Topcoating Extra",
+      "description": "Hoog chemisch resistent, slijt- en watervast. Geschikt voor autobanden.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-vloertopcoating-matt-extra-2_5-kg3.png",
+      "price": 55.5,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/ruwol-2k-epoxy-vloercoating",
+      "title": "Ruwol 2K Epoxy Vloercoating",
+      "description": "Zeer slijtvaste Epoxy vloercoating voor beton,- zandcement en anhydrietvloeren. Voor de professional en doehetzelver!",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/r/u/ruwol-2k-epoxy-vloercoating_1.jpg",
+      "price": 23.64,
+      "currency": "EUR",
+      "brand": "Ruwol"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/oaf-pro-2k-epoxy-vloercoating-cd20",
+      "title": "OAF PRO 2K Epoxy Vloercoating CD20",
+      "description": "Deze epoxy vloercoating geeft een zeer slijtvaste en vloeistofdichte vloer. Voor de professional en doehetzelver!",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/o/a/oaf_pro_vloercoat_epoxy_2k_5_kg.jpg",
+      "price": 52.54,
+      "currency": "EUR",
+      "brand": "OAF PRO"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-1k-primer-blank",
+      "title": "Holdbar 1K Primer Blank",
+      "description": "Primer met uitstekende hechting voor beton, cement, stucwerk en hout",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-1k-vloerprimer-blank-2_5-kg_2.png",
+      "price": 27.27,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/ruwol-2k-epoxy-primer",
+      "title": "Ruwol 2K Epoxy Primer",
+      "description": "2K Epoxy Betonprimer voor beton en steenachtige ondergronden.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/r/u/ruwol-2k-epoxy-primer.jpg",
+      "price": 36.18,
+      "currency": "EUR",
+      "brand": "Ruwol"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/antislip-voor-2-k-vloercoatings",
+      "title": "Antislip voor 2K Vloercoatings 25 Kg",
+      "description": "Antislipkorrel voor een stroef effect van vloercoatings.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/a/n/antislipkorrel-vloercoatings_1.jpg",
+      "price": 44.48,
+      "currency": "EUR",
+      "brand": "Sibelco"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-badkamercoating",
+      "title": "Holdbar Badkamercoating",
+      "description": "Stap 2 van het Holdbar badkamercoating-systeem.\r\n\r\n\r\nMeer dan 2000 kleuren\r\nWatervast en waterdicht\r\nFlexibel\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-badkamercoating.png",
+      "price": 57.09,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-zwembadcoating",
+      "title": "Holdbar Zwembadcoating",
+      "description": "Stap 2 van het Holdbar zwembadcoating-systeem.\r\n\r\n\r\nMeer dan 2000 kleuren\r\nWatervast en waterdicht\r\n100% UV bestendig\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-zwembadcoating-base-d-2_5-kg_1.png",
+      "price": 61,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-keldercoating",
+      "title": "Holdbar Keldercoating",
+      "description": "Hoogwaardige 2K epoxy keldercoating voor optimale bescherming.",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-keldercoating.png",
+      "price": 55.31,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-trapcoating",
+      "title": "Holdbar Trapcoating",
+      "description": "Hoogwaardige 2 componenten epoxy coating speciaal ontwikkeld voor trappen",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-epoxy-trapcoating.png",
+      "price": 51.78,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-zwembad-topcoating",
+      "title": "Holdbar Zwembad Topcoating",
+      "description": "Stap 3 van het Holdbar zwembadcoating-systeem.\r\n\r\n\r\nBeschermt tegen water en chloor\r\nWatervast en waterdicht\r\n100% UV bestendig\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-zwembad-topcoating.png",
+      "price": 58.89,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-badkamer-topcoating",
+      "title": "Holdbar Badkamer Topcoating",
+      "description": "Stap 3 van het Holdbar badkamercoating-systeem.\r\n\r\n\r\nWatervast en waterdicht\r\nBeschermt tegen chemicaliën\r\nGlashelder\r\n\r\n",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-badkamertopcoating-blank.png",
+      "price": 50.81,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    },
+    {
+      "url": "https://www.verfbestelsite.nl/coatings/holdbar-trap-topcoating",
+      "title": "Holdbar Trap Topcoating",
+      "description": "Hoogwaardige, transparante, niet vergelende 2 componenten polyurethaan coating voor houten en betonnen trappen",
+      "image": "https://www.verfbestelsite.nl/media/catalog/product/cache/efd9e08a1cbc8a22001eb71034c3fe3e/h/o/holdbar-2k-pu-traptopcoating-blank.png",
+      "price": 45.21,
+      "currency": "EUR",
+      "brand": "Holdbar"
+    }
+  ]
+}
