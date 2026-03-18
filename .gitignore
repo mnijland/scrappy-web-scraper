@@ -34,6 +34,7 @@ yarn-error.log*
 next-env.d.ts
 
 # Session data (local only)
+/data/*.json
 /data/sessions/
 /data/sessions_backup/
 
