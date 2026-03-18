@@ -150,6 +150,16 @@ export default function DataEditor({ items, columns, onColumnChange, onChange })
                                     </div>
                                 </td>
                                 <td style={{ padding: '1rem 1.5rem', verticalAlign: 'top' }}>
+                                    <input
+                                        type="text"
+                                        value={item.stock || ''}
+                                        onChange={(e) => updateItem(index, 'stock', e.target.value)}
+                                        className="input-editable"
+                                        placeholder="-"
+                                        style={{ fontSize: '0.8rem' }}
+                                    />
+                                </td>
+                                <td style={{ padding: '1rem 1.5rem', verticalAlign: 'top' }}>
                                     <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
                                         <input
                                             type="text"
@@ -171,6 +181,15 @@ export default function DataEditor({ items, columns, onColumnChange, onChange })
                                         className="input-editable"
                                         style={{ width: '100%', minHeight: '60px', fontSize: '0.8rem', resize: 'vertical' }}
                                         placeholder={columns.shortDescription}
+                                    />
+                                </td>
+                                <td style={{ padding: '1rem 1.5rem', verticalAlign: 'top' }}>
+                                    <textarea
+                                        value={item.longDescription || ''}
+                                        onChange={(e) => updateItem(index, 'longDescription', e.target.value)}
+                                        className="input-editable"
+                                        style={{ width: '100%', minHeight: '60px', fontSize: '0.8rem', resize: 'vertical' }}
+                                        placeholder={columns.longDescription}
                                     />
                                 </td>
                                 <td style={{ padding: '1rem 1.5rem', verticalAlign: 'top', textAlign: 'right' }}>

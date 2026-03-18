@@ -258,3 +258,32 @@ textarea:focus {
 .mt-4 {
   margin-top: 1rem;
 }
+
+/* Flex utilities */
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+/* Text color utility matching CSS variable */
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+/* Spin animation for loading indicators */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}

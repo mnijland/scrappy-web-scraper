@@ -8,6 +8,7 @@ import { ArrowRight, Loader2, Sparkles, Search } from 'lucide-react';
 export default function Home() {
     const [url, setUrl] = useState('');
     const [loading, setLoading] = useState(false);
+    const [error, setError] = useState('');
     const router = useRouter();
 
     const handleStartScraping = async (e) => {
@@ -15,6 +16,7 @@ export default function Home() {
         if (!url) return;
 
         setLoading(true);
+        setError('');
         try {
             const res = await fetch('/api/sessions', {
                 method: 'POST',
@@ -26,11 +28,12 @@ export default function Home() {
                 const session = await res.json();
                 router.push(`/session/${session.id}`);
             } else {
-                alert('Failed to start session');
+                setError('Failed to start session. Please check the URL and try again.');
                 setLoading(false);
             }
         } catch (err) {
             console.error(err);
+            setError('Network error. Please try again.');
             setLoading(false);
         }
     };
@@ -86,6 +89,7 @@ export default function Home() {
                         {loading ? <Loader2 size={20} className="animate-spin" /> : <ArrowRight size={20} />}
                     </button>
                 </form>
+                {error && <p style={{ color: '#ef4444', marginTop: '0.75rem', fontSize: '0.875rem' }}>{error}</p>}
             </header>
 
             <div style={{ marginBottom: '1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>

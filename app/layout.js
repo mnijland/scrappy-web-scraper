@@ -1,6 +1,5 @@
 import './globals.css';
 import Sidebar from '@/components/Sidebar';
-import { Search, Bell, HelpCircle } from 'lucide-react';
 
 export const metadata = {
     title: 'Scrappy | Web to Data',

@@ -116,7 +116,7 @@ export default function SessionPage() {
 
 
     const downloadCSV = () => {
-        if (!session) return;
+        if (!session?.items) return;
 
         // Map items using the Custom Column Names
         const data = session.items.map(item => ({
@@ -158,6 +158,7 @@ export default function SessionPage() {
     };
 
     const downloadJSON = () => {
+        if (!session?.items) return;
         const blob = new Blob([JSON.stringify(session.items, null, 2)], { type: 'application/json' });
         const link = document.createElement('a');
         link.href = URL.createObjectURL(blob);
